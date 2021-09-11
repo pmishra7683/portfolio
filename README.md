@@ -8,7 +8,7 @@
 
 
 
-88 Implementation
+** Implementation
 -  I have used SCSS to write children block CSS within the parent block cause why not! it just helps me navigate easily.
 -  Font awesome has been used to import icons from cdn provided in document.
 
